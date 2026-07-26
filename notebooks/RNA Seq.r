@@ -4,7 +4,7 @@
 
 # --- 1. Set Working Directory ---
 # Update this to where your featureCounts output is saved
-setwd("/mnt/c/College/Kusuma School of Biological Sciences (PhD)/Project")
+setwd("/mnt/c/DIRECTORY LOCATION")
 
 # --- 2. Install and Load Packages ---
 packages <- c("DESeq2", "tidyverse", "pheatmap", "ggrepel", 
