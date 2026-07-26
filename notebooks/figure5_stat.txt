@@ -1,0 +1,6 @@
+FIGURE 5 DETAILED STATISTICAL REPORT
+========================================================
+
+Panel C (CpG Motif Protection): Chi-square p=1.2528e-03
+Panel C (GpA Motif Protection): Chi-square p=4.6550e-203
+Panel B (Genome-Wide GC3 Shift): Mann-Whitney p=2.4741e-45

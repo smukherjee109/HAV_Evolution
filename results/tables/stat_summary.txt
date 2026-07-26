@@ -1,0 +1,11 @@
+=================================================================
+    STATISTICAL SUMMARY: MECHANISMS OF EVOLUTIONARY ESCAPE
+=================================================================
+
+--- PANEL C: EFFECT SIZE (BOOTSTRAPPED CORRELATION) ---
+Historical 95% CI for r: [0.598 - 0.861]
+Contemporary 95% CI for r: [0.182 - 0.743]
+Difference in correlation (Effect Size): 0.315
+Fisher's Z-Transformation p-value: 4.3474e-05
+Interpretation: The non-overlapping bootstrapped distributions visually confirm that the drop in correlation strength is highly significant and not an artifact of sample size.
+

@@ -1,0 +1,9 @@
+Bio==1.8.3
+biopython==1.85
+marimo==0.23.11
+matplotlib==3.11.0
+numpy==2.5.0
+pandas==3.0.3
+scipy==1.18.0
+seaborn==0.13.2
+statsmodels==0.14.5

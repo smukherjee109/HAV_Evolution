@@ -1,0 +1,7 @@
+Genotype,Historical (N),Historical (%),Contemporary (N),Contemporary (%),Total (N),Absolute Shift (%),P-Value,Significance
+Genotype IB,12,12.0,125,63.13,137,51.13,4.6665518876057065e-18,***
+Genotype IA,21,21.0,50,25.25,71,4.25,0.47277220285415844,ns
+Other/Unassigned,48,48.0,15,7.58,63,-40.42,3.948369742233874e-15,***
+Genotype IIIA,9,9.0,8,4.04,17,-4.96,0.11063141739383253,ns
+Genotype IIA,6,6.0,0,0.0,6,-6.0,0.0012892182707495683,**
+Genotype IIIB,4,4.0,0,0.0,4,-4.0,0.012177175469178653,*

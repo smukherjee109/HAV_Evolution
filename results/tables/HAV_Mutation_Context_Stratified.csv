@@ -1,0 +1,2899 @@
+Site,Sequence_ID,Ref_Codon,Query_Codon,Mutation,Category,Context_Triplet,5_Prime_Base,3_Prime_Base,Detailed_Context
+174,AB618529_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,AB618531_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,AB793725_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,AB793726_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,AB819869_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,AB819870_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,AB839692_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,AB839693_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,AB839694_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,AB839695_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,AB839696_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,AB839697_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,AB909123_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,AB969748_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,AB973401_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,HM769724_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,HQ437707_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,KC182587_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,KC182588_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,KC182589_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,KF773842_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,KJ427799_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,KP177964_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,KP177965_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,KX228694_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,LC035020_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,LC049337_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,LC049338_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,LC049339_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,LC049340_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,LC049341_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,LC049342_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,LC191189_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,LC373510_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,LC416593_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,LC416594_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,LC416595_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,LC435031_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,LC435032_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,MF621614_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,MG049743_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,MH577308_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,MH577309_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,MH577310_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,MH577311_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,MH577312_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,MH577313_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,MH577314_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,MN062164_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,MN062165_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,MN062166_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,MN746031_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,MN746032_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,MN832785_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,MN832786_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,MW405346_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,MW405347_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,MW405348_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,MW405349_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,OK625565_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,OM291913_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,OM291914_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,OM291915_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,OM291916_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,OM291917_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,OM291918_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON496631_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON496632_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON496633_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524415_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524416_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524417_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524419_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524420_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524421_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524422_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524423_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524424_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524425_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524426_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524427_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524428_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524429_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524430_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524431_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524432_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524433_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524434_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524435_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524436_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524437_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524438_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524439_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524440_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524441_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524442_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524443_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524444_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524445_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524446_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524448_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524449_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524450_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524451_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524452_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524453_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524455_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524456_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524457_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524458_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524459_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524460_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524461_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524462_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524463_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524464_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524465_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524466_1,TTC,ATC,T>A,Other,TTT,T,T,Other
+174,ON524467_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524468_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524469_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524470_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524471_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524472_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524473_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524474_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524475_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524476_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524477_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524478_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524479_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524480_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524481_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524482_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524483_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524484_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524487_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524488_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524489_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524491_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524492_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524493_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524494_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524496_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524497_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524498_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524499_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524500_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524501_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524502_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524503_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524504_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524506_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524507_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524508_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524509_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524510_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524512_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524514_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524515_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524516_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524517_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524518_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524519_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524520_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524521_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524522_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524524_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524526_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524528_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524529_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524530_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524531_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524532_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524533_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524534_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON524535_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON661550_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON661551_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON661552_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON661553_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON661554_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON661555_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON661556_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON661557_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON661558_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON661559_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON911719_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON911720_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON911721_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,ON911722_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,OQ161772_2,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,OQ791466_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,OR031237_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,OR477188_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,OR477190_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,OR477193_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,OR477194_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,OR477195_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,OR477196_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,OR477197_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,OR477198_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,OR477199_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,OR477200_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,OR477202_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,OR606576_2,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,PP389036_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,PP389037_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,PP389039_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,PP389040_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,PP389041_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,PP389042_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,PP389044_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,PP661694_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,PP661695_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,PP661696_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,PP661697_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,PP661698_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,PP661699_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,PP860039_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,PQ008999_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+174,PQ496830_1,TTC,TTT,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+204,AB425339_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,AB819869_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,AB819870_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,AB839692_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,AB839693_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,AB839694_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,AB839695_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,AB839696_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,AB839697_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,AB969748_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,HM769724_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,HQ437707_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,KC182587_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,KC182588_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,KC182589_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,KF724023_1,AGC,GGC,A>G,A>G (Transition),GAG,G,G,GpA Context
+204,KF773842_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,KJ427799_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,KP177964_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,KP177965_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,KX088647_1,AGC,GGC,A>G,A>G (Transition),GAG,G,G,GpA Context
+204,LC035020_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,LC049337_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,LC049338_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,LC049339_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,LC049340_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,LC049341_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,LC049342_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,LC128713_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,LC191189_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,LC373510_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,LC416593_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,LC416594_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,LC416595_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,LC435031_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,LC435032_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,LC515196_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,LC515197_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,LC515198_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,LC515199_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,LC515200_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,LC515202_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,MG049743_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,MH933766_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,MH933767_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,MH933768_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,MN062164_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,MN062165_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,MN062166_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,MW405346_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,MW405347_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,MW405348_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,MW405349_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,OK625565_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,OM291913_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,OM291914_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,OM291915_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,OM291916_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,OM291917_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,OM291918_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON496631_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON496632_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON524415_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON524416_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON524417_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON524419_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON524420_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON524421_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON524422_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON524424_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON524425_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON524427_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON524428_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON524431_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON524435_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON524439_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON524443_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON524458_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON524459_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON524473_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON524519_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON524522_1,AGC,ATT,G>T,Other,AGC,A,C,Other
+204,ON524522_1,AGC,ATT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON524534_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON524535_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON661550_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON661551_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON661552_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON661553_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON911719_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON911720_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON911721_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,ON911722_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,OR031237_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,OR606576_2,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,PP389036_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,PP389037_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,PP389039_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,PP389040_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,PP389041_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,PP389042_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,PP389044_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,PP661694_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,PP661695_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,PP661696_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,PP661697_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,PP661698_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,PP661699_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,PQ008999_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+204,PQ496830_1,AGC,AGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+291,OR477197_1,ACA,TCA,A>T,Other,TAC,T,C,Other
+291,PP661698_1,ACA,ACT,A>T,Other,CAC,C,C,Other
+388,AB425339_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,AB618529_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,AB618531_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,AB793725_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,AB793726_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,AB819869_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,AB819870_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,AB839692_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,AB839693_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,AB839694_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,AB839695_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,AB839696_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,AB839697_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,AB909123_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,AB969748_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,AB973400_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,AB973401_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,HM769724_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,HQ437707_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,KC182587_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,KC182588_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,KC182589_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,KF569906_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,KF773842_1,ACG,ACC,G>C,Other,CGA,C,A,Other
+388,KJ427799_1,ACG,ACC,G>C,Other,CGA,C,A,Other
+388,KP177964_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,KP177965_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,KX035096_1,ACG,AAA,C>A,Other,ACG,A,G,Other
+388,KX035096_1,ACG,AAA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,KX088647_1,ACG,AAA,C>A,Other,ACG,A,G,Other
+388,KX088647_1,ACG,AAA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,KX228694_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,KX523680_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,KY003229_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,LC035020_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,LC049337_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,LC049338_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,LC049339_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,LC049340_1,ACG,ACC,G>C,Other,CGA,C,A,Other
+388,LC049341_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,LC049342_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,LC128713_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,LC191189_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,LC373510_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,LC416593_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,LC416594_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,LC416595_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,LC435031_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,LC435032_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,LC515196_1,ACG,TCA,A>T,Other,TAC,T,C,Other
+388,LC515196_1,ACG,TCA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,LC515197_1,ACG,TCA,A>T,Other,TAC,T,C,Other
+388,LC515197_1,ACG,TCA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,LC515198_1,ACG,TCA,A>T,Other,TAC,T,C,Other
+388,LC515198_1,ACG,TCA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,LC515199_1,ACG,TCA,A>T,Other,TAC,T,C,Other
+388,LC515199_1,ACG,TCA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,LC515200_1,ACG,TCA,A>T,Other,TAC,T,C,Other
+388,LC515200_1,ACG,TCA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,LC515201_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,LC515202_1,ACG,TCA,A>T,Other,TAC,T,C,Other
+388,LC515202_1,ACG,TCA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,MF621614_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,MG049743_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,MH577308_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,MH577309_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,MH577310_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,MH577311_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,MH577312_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,MH577313_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,MH577314_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,MH685714_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,MH933766_1,ACG,TCA,A>T,Other,TAC,T,C,Other
+388,MH933766_1,ACG,TCA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,MH933768_1,ACG,TCA,A>T,Other,TAC,T,C,Other
+388,MH933768_1,ACG,TCA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,MK829707_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,MN062164_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,MN062165_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,MN062166_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,MN746031_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,MN746032_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,MN832785_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,MN832786_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,MT181522_1,ACG,AAA,C>A,Other,ACG,A,G,Other
+388,MT181522_1,ACG,AAA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,MW405346_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,MW405347_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,MW405348_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,MW405349_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,OK625565_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,OM291913_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,OM291914_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,OM291915_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,OM291916_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,OM291917_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,OM291918_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON496631_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON496632_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON496633_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524415_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON524416_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON524417_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON524419_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON524420_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON524421_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON524422_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON524423_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524424_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON524425_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON524426_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524427_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON524428_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON524429_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524430_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524431_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON524432_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524433_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524434_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524435_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON524436_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524437_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524438_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524439_1,ACG,ACC,G>C,Other,CGA,C,A,Other
+388,ON524440_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524441_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524442_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524443_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON524444_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524445_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524446_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524448_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524449_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524450_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524451_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524452_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524453_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524455_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524456_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524457_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524458_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON524459_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON524460_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524461_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524462_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524463_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524464_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524465_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524466_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524467_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524468_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524469_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524470_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524471_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524472_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524473_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON524474_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524475_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524476_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524477_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524478_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524479_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524480_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524481_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524482_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524483_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524484_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524487_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524488_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524489_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524491_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524492_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524493_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524494_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524496_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524497_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524498_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524499_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524500_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524501_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524502_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524503_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524504_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524506_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524507_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524508_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524509_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524510_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524512_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524514_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524515_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524516_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524517_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524518_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524519_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON524520_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524521_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524522_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON524524_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524526_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524528_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524529_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524530_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524531_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524532_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524533_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON524534_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON524535_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON661550_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON661551_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON661552_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON661553_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON661554_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON661555_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON661556_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON661557_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON661558_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON661559_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,ON911719_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON911720_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON911721_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,ON911722_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,OQ077984_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,OQ077985_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,OQ077995_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,OQ077996_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,OQ161772_2,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,OR477188_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,OR477190_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,OR477193_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,OR477194_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,OR477195_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,OR477196_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,OR477197_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,OR477198_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,OR477199_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,OR477200_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,OR477202_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,OR606575_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,OR606576_2,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,PP389036_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,PP389037_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,PP389039_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,PP389040_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,PP389041_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,PP389042_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,PP389044_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,PP661694_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,PP661695_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,PP661696_1,ACG,AGT,C>G,Other,ACG,A,G,Other
+388,PP661696_1,ACG,AGT,G>T,Other,CGA,C,A,Other
+388,PP661697_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,PP661698_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,PP661699_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,PP860039_1,ACG,ACA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,PQ008999_1,ACG,AAA,C>A,Other,ACG,A,G,Other
+388,PQ008999_1,ACG,AAA,G>A,G>A (Transition),CGA,C,A,GpA Context (Antisense APOBEC)
+388,PQ009000_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,PQ009001_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+388,PQ496830_1,ACG,ACT,G>T,Other,CGA,C,A,Other
+439,AB425339_1,ATA,ATT,A>T,Other,TA-,T,-,Other
+439,AB973400_1,ATA,ATT,A>T,Other,TA-,T,-,Other
+439,KF724020_1,ATA,ATG,A>G,A>G (Transition),TA-,T,-,TpA Context (ADAR-like)
+439,KF724021_1,ATA,ATG,A>G,A>G (Transition),TA-,T,-,TpA Context (ADAR-like)
+439,KF724022_1,ATA,ATG,A>G,A>G (Transition),TA-,T,-,TpA Context (ADAR-like)
+439,LC515196_1,ATA,ATT,A>T,Other,TA-,T,-,Other
+439,LC515197_1,ATA,ATT,A>T,Other,TA-,T,-,Other
+439,LC515198_1,ATA,ATT,A>T,Other,TA-,T,-,Other
+439,LC515199_1,ATA,ATT,A>T,Other,TA-,T,-,Other
+439,LC515200_1,ATA,ATT,A>T,Other,TA-,T,-,Other
+439,LC515202_1,ATA,ATT,A>T,Other,TA-,T,-,Other
+439,MH933766_1,ATA,ATT,A>T,Other,TA-,T,-,Other
+439,MH933767_1,ATA,ATT,A>T,Other,TA-,T,-,Other
+439,MH933768_1,ATA,ATT,A>T,Other,TA-,T,-,Other
+439,ON524460_1,ATA,ATG,A>G,A>G (Transition),TA-,T,-,TpA Context (ADAR-like)
+439,OR606575_1,ATA,ATT,A>T,Other,TA-,T,-,Other
+439,PP661696_1,ATA,ATT,A>T,Other,TA-,T,-,Other
+569,AB909123_1,GTT,GTC,T>C,T>C (Transition),TTC,T,C,TpT Context
+569,KF569906_1,GTT,GCT,T>C,T>C (Transition),GTT,G,T,GpT Context
+569,KX523680_1,GTT,GAT,T>A,Other,GTT,G,T,Other
+569,OR606576_2,GTT,GTC,T>C,T>C (Transition),TTC,T,C,TpT Context
+569,PQ496830_1,GTT,GTC,T>C,T>C (Transition),TTC,T,C,TpT Context
+576,AB425339_1,ATA,ATC,A>C,Other,TAA,T,A,Other
+576,AB973400_1,ATA,ATT,A>T,Other,TAA,T,A,Other
+576,KF724019_1,ATA,GTA,A>G,A>G (Transition),TAT,T,T,TpA Context (ADAR-like)
+576,KF724023_1,ATA,GTA,A>G,A>G (Transition),TAT,T,T,TpA Context (ADAR-like)
+576,MG049743_1,ATA,ATT,A>T,Other,TAA,T,A,Other
+576,MT181522_1,ATA,GTA,A>G,A>G (Transition),TAT,T,T,TpA Context (ADAR-like)
+576,OK625565_1,ATA,ATT,A>T,Other,TAA,T,A,Other
+576,ON524439_1,ATA,ATT,A>T,Other,TAA,T,A,Other
+576,OR606575_1,ATA,ATT,A>T,Other,TAA,T,A,Other
+576,PP661694_1,ATA,ATT,A>T,Other,TAA,T,A,Other
+576,PP661699_1,ATA,ATT,A>T,Other,TAA,T,A,Other
+594,AB973400_1,TCA,TCG,A>G,A>G (Transition),CAG,C,G,CpA Context
+594,KF724021_1,TCA,CCA,T>C,T>C (Transition),TTC,T,C,TpT Context
+594,KF724022_1,TCA,CCA,T>C,T>C (Transition),TTC,T,C,TpT Context
+594,MN062164_1,TCA,TCG,A>G,A>G (Transition),CAG,C,G,CpA Context
+594,ON496631_1,TCA,TCG,A>G,A>G (Transition),CAG,C,G,CpA Context
+594,ON524415_1,TCA,TCG,A>G,A>G (Transition),CAG,C,G,CpA Context
+594,OR606575_1,TCA,TCG,A>G,A>G (Transition),CAG,C,G,CpA Context
+636,AB425339_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,AB618529_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,AB618531_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,AB793725_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,AB793726_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,AB819869_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,AB819870_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,AB839692_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,AB839693_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,AB839694_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,AB839695_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,AB839696_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,AB839697_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,AB909123_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,AB969748_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,AB973400_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,AB973401_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,HM769724_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,HQ437707_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,KC182587_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,KC182588_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,KC182589_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,KF724019_1,ATC,GTC,A>G,A>G (Transition),CAT,C,T,CpA Context
+636,KF724020_1,ATC,GTC,A>G,A>G (Transition),CAT,C,T,CpA Context
+636,KF724021_1,ATC,GTC,A>G,A>G (Transition),CAT,C,T,CpA Context
+636,KF724022_1,ATC,GTC,A>G,A>G (Transition),CAT,C,T,CpA Context
+636,KF724023_1,ATC,GTC,A>G,A>G (Transition),CAT,C,T,CpA Context
+636,KF773842_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,KJ427799_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,KP177964_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,KP177965_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,KX228694_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,KY003229_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,LC035020_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,LC049337_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,LC049338_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,LC049339_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,LC049340_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,LC049341_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,LC049342_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,LC128713_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,LC191189_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,LC373510_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,LC416593_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,LC416594_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,LC416595_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,LC435031_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,LC435032_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,LC515196_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,LC515197_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,LC515198_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,LC515199_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,LC515200_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,LC515201_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,LC515202_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,MF621614_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,MG049743_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,MH577308_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,MH577309_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,MH577310_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,MH577311_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,MH577312_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,MH577313_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,MH577314_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,MH685714_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,MH933766_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,MH933767_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,MH933768_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,MN062164_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,MN062165_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,MN062166_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,MN746031_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,MN746032_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,MN832785_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,MN832786_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,MW405346_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,MW405347_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,MW405348_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,MW405349_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,OK625565_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,OM291913_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,OM291914_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,OM291915_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,OM291916_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,OM291917_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,OM291918_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON496631_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON496632_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524415_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524416_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524417_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524419_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524420_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524421_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524422_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524424_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524425_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524426_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524427_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524428_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524429_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524430_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524431_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524433_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524434_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524435_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524437_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524439_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524441_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524443_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524452_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524453_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524455_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524456_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524458_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524459_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524460_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524461_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524463_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524466_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524470_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524472_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524473_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524475_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524476_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524477_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524479_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524480_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524481_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524483_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524487_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524488_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524489_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524491_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524493_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524499_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524504_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524506_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524508_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524512_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524519_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524521_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524522_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524532_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524534_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON524535_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON661550_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON661551_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON661552_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON661553_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON661555_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON661558_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON661559_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON911719_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON911720_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON911721_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,ON911722_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,OQ077984_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,OQ077985_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,OQ077995_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,OQ077996_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,OQ161772_2,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,OQ791466_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,OR031237_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,OR477188_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,OR477190_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,OR477193_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,OR477194_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,OR477195_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,OR477196_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,OR477197_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,OR477198_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,OR477199_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,OR477200_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,OR477202_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,OR606575_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,OR606576_2,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,PP389036_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,PP389037_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,PP389039_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,PP389040_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,PP389041_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,PP389042_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,PP389044_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,PP661694_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,PP661695_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,PP661696_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,PP661697_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,PP661698_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,PP661699_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,PP860039_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,PQ009000_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+636,PQ496830_1,ATC,ATT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+674,AB618529_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,AB618531_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,AB793725_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,AB793726_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,AB819869_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,AB819870_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,AB839692_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,AB839693_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,AB839694_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,AB839695_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,AB839696_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,AB839697_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,AB909123_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,AB969748_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,AB973401_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,HM769724_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,HQ437707_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,KC182587_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,KC182588_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,KC182589_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,KF724021_1,TTG,TTC,G>C,Other,TGC,T,C,Other
+674,KF724022_1,TTG,TTC,G>C,Other,TGC,T,C,Other
+674,KF773842_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,KJ427799_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,KP177964_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,KP177965_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,KX088647_1,TTG,TTC,G>C,Other,TGC,T,C,Other
+674,LC035020_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,LC049337_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,LC049338_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,LC049340_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,LC049341_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,LC049342_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,LC191189_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,LC373510_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,LC416593_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,LC416594_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,LC416595_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,LC435031_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,LC435032_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,LC515196_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,LC515197_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,LC515198_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,LC515199_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,LC515200_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,LC515201_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,LC515202_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,MG049743_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,MH933766_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,MH933767_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,MH933768_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,MN062164_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,MN062165_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,MN062166_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,MN832786_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,MW405346_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,MW405349_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,OK625565_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON496631_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON496632_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON524415_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON524416_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON524417_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON524419_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON524420_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON524421_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON524422_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON524424_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON524425_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON524427_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON524428_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON524431_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON524435_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON524439_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON524443_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON524458_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON524459_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON524473_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON524503_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON524519_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON524522_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON524534_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON524535_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON661550_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON661551_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON661552_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON661553_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON911719_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON911720_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON911721_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,ON911722_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,OR606576_2,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,PP389036_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,PP389037_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,PP389039_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,PP389040_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,PP389041_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,PP389042_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,PP389044_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,PP661694_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,PP661695_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,PP661696_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,PP661697_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,PP661698_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,PP661699_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,PP860039_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,PQ009000_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+674,PQ496830_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+699,HQ437707_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,KC182587_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,KC182588_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,KC182589_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,KF724020_1,ATT,GTT,A>G,A>G (Transition),TAT,T,T,TpA Context (ADAR-like)
+699,KF724021_1,ATT,GTT,A>G,A>G (Transition),TAT,T,T,TpA Context (ADAR-like)
+699,KF724022_1,ATT,GTT,A>G,A>G (Transition),TAT,T,T,TpA Context (ADAR-like)
+699,KF724023_1,ATT,GTT,A>G,A>G (Transition),TAT,T,T,TpA Context (ADAR-like)
+699,KX088647_1,ATT,GTT,A>G,A>G (Transition),TAT,T,T,TpA Context (ADAR-like)
+699,KX228694_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,KY003229_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+699,LC128713_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+699,LC515196_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,LC515197_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,LC515198_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,LC515199_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,LC515200_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,LC515202_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,MG049743_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,MH933766_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,MH933767_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,MH933768_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,MN062164_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,MN062165_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,MN062166_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,MN746031_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,MN746032_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,MN832785_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+699,OK625565_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,ON496631_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,ON496632_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,ON524415_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,ON524416_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,ON524417_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,ON524419_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,ON524420_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,ON524421_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,ON524422_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,ON524424_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,ON524427_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,ON524428_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,ON524435_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,ON524439_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,ON524443_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,ON524458_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,ON524459_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,ON524473_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,ON524519_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,ON524522_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,ON524534_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,ON524535_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,ON661550_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,ON661551_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,ON661552_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,ON661553_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,OQ161772_2,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,OR477188_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,OR477190_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,OR477193_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,OR477194_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,OR477195_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,OR477196_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,OR477197_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,OR477198_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,OR477199_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,OR477200_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,OR477202_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,PP661694_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,PP661696_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,PP661699_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+699,PP860039_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+722,AB973400_1,CCT,CCA,T>A,Other,CTT,C,T,Other
+722,ON524515_1,CCT,CCC,T>C,T>C (Transition),CTT,C,T,CpT Context
+722,ON524516_1,CCT,CCC,T>C,T>C (Transition),CTT,C,T,CpT Context
+722,ON524517_1,CCT,CCC,T>C,T>C (Transition),CTT,C,T,CpT Context
+722,ON524519_1,CCT,TAC,C>T,C>T (Transition),TCC,T,C,TpC Context (APOBEC-like)
+722,ON524519_1,CCT,TAC,C>A,Other,CCT,C,T,Other
+722,ON524519_1,CCT,TAC,T>C,T>C (Transition),CTT,C,T,CpT Context
+722,ON524520_1,CCT,CCC,T>C,T>C (Transition),CTT,C,T,CpT Context
+722,ON524524_1,CCT,CCC,T>C,T>C (Transition),CTT,C,T,CpT Context
+722,ON524526_1,CCT,CCC,T>C,T>C (Transition),CTT,C,T,CpT Context
+722,ON524533_1,CCT,CCC,T>C,T>C (Transition),CTT,C,T,CpT Context
+722,ON661556_1,CCT,CCC,T>C,T>C (Transition),CTT,C,T,CpT Context
+722,ON661557_1,CCT,CCC,T>C,T>C (Transition),CTT,C,T,CpT Context
+722,OR606575_1,CCT,CCA,T>A,Other,CTT,C,T,Other
+722,PP860039_1,CCT,CCC,T>C,T>C (Transition),CTT,C,T,CpT Context
+880,AB819870_1,CAA,TCA,C>T,C>T (Transition),ACA,A,A,ApC Context
+880,AB819870_1,CAA,TCA,A>C,Other,CAA,C,A,Other
+880,AB969748_1,CAA,TCA,C>T,C>T (Transition),ACA,A,A,ApC Context
+880,AB969748_1,CAA,TCA,A>C,Other,CAA,C,A,Other
+880,LC035020_1,CAA,TCA,C>T,C>T (Transition),ACA,A,A,ApC Context
+880,LC035020_1,CAA,TCA,A>C,Other,CAA,C,A,Other
+880,LC191189_1,CAA,TCA,C>T,C>T (Transition),ACA,A,A,ApC Context
+880,LC191189_1,CAA,TCA,A>C,Other,CAA,C,A,Other
+880,LC373510_1,CAA,TCA,C>T,C>T (Transition),ACA,A,A,ApC Context
+880,LC373510_1,CAA,TCA,A>C,Other,CAA,C,A,Other
+880,LC515196_1,CAA,CAG,A>G,A>G (Transition),AAA,A,A,ApA Context (ADAR-like)
+880,LC515197_1,CAA,CAG,A>G,A>G (Transition),AAA,A,A,ApA Context (ADAR-like)
+880,LC515198_1,CAA,CAG,A>G,A>G (Transition),AAA,A,A,ApA Context (ADAR-like)
+880,LC515199_1,CAA,CAG,A>G,A>G (Transition),AAA,A,A,ApA Context (ADAR-like)
+880,LC515200_1,CAA,CAG,A>G,A>G (Transition),AAA,A,A,ApA Context (ADAR-like)
+880,LC515202_1,CAA,CAG,A>G,A>G (Transition),AAA,A,A,ApA Context (ADAR-like)
+880,MH933767_1,CAA,CAG,A>G,A>G (Transition),AAA,A,A,ApA Context (ADAR-like)
+880,MH933768_1,CAA,CAG,A>G,A>G (Transition),AAA,A,A,ApA Context (ADAR-like)
+880,MW405346_1,CAA,TCA,C>T,C>T (Transition),ACA,A,A,ApC Context
+880,MW405346_1,CAA,TCA,A>C,Other,CAA,C,A,Other
+880,MW405348_1,CAA,TCA,C>T,C>T (Transition),ACA,A,A,ApC Context
+880,MW405348_1,CAA,TCA,A>C,Other,CAA,C,A,Other
+880,MW405349_1,CAA,TCA,C>T,C>T (Transition),ACA,A,A,ApC Context
+880,MW405349_1,CAA,TCA,A>C,Other,CAA,C,A,Other
+880,OM291913_1,CAA,TCA,C>T,C>T (Transition),ACA,A,A,ApC Context
+880,OM291913_1,CAA,TCA,A>C,Other,CAA,C,A,Other
+880,OM291914_1,CAA,TCA,C>T,C>T (Transition),ACA,A,A,ApC Context
+880,OM291914_1,CAA,TCA,A>C,Other,CAA,C,A,Other
+880,OM291915_1,CAA,TCA,C>T,C>T (Transition),ACA,A,A,ApC Context
+880,OM291915_1,CAA,TCA,A>C,Other,CAA,C,A,Other
+880,OM291916_1,CAA,TCA,C>T,C>T (Transition),ACA,A,A,ApC Context
+880,OM291916_1,CAA,TCA,A>C,Other,CAA,C,A,Other
+880,OM291917_1,CAA,TCA,C>T,C>T (Transition),ACA,A,A,ApC Context
+880,OM291917_1,CAA,TCA,A>C,Other,CAA,C,A,Other
+880,OM291918_1,CAA,TCA,C>T,C>T (Transition),ACA,A,A,ApC Context
+880,OM291918_1,CAA,TCA,A>C,Other,CAA,C,A,Other
+880,ON524420_1,CAA,CAG,A>G,A>G (Transition),AAA,A,A,ApA Context (ADAR-like)
+880,ON911721_1,CAA,TCA,C>T,C>T (Transition),ACA,A,A,ApC Context
+880,ON911721_1,CAA,TCA,A>C,Other,CAA,C,A,Other
+880,PP389036_1,CAA,TCA,C>T,C>T (Transition),ACA,A,A,ApC Context
+880,PP389036_1,CAA,TCA,A>C,Other,CAA,C,A,Other
+880,PP389037_1,CAA,TCA,C>T,C>T (Transition),ACA,A,A,ApC Context
+880,PP389037_1,CAA,TCA,A>C,Other,CAA,C,A,Other
+880,PP389039_1,CAA,TCA,C>T,C>T (Transition),ACA,A,A,ApC Context
+880,PP389039_1,CAA,TCA,A>C,Other,CAA,C,A,Other
+880,PP389040_1,CAA,TCA,C>T,C>T (Transition),ACA,A,A,ApC Context
+880,PP389040_1,CAA,TCA,A>C,Other,CAA,C,A,Other
+880,PP389041_1,CAA,TCA,C>T,C>T (Transition),ACA,A,A,ApC Context
+880,PP389041_1,CAA,TCA,A>C,Other,CAA,C,A,Other
+880,PP389042_1,CAA,TCA,C>T,C>T (Transition),ACA,A,A,ApC Context
+880,PP389042_1,CAA,TCA,A>C,Other,CAA,C,A,Other
+880,PP389044_1,CAA,TCA,C>T,C>T (Transition),ACA,A,A,ApC Context
+880,PP389044_1,CAA,TCA,A>C,Other,CAA,C,A,Other
+880,PQ008999_1,CAA,TCA,C>T,C>T (Transition),ACA,A,A,ApC Context
+880,PQ008999_1,CAA,TCA,A>C,Other,CAA,C,A,Other
+880,PQ009000_1,CAA,TCA,C>T,C>T (Transition),ACA,A,A,ApC Context
+880,PQ009000_1,CAA,TCA,A>C,Other,CAA,C,A,Other
+1079,AB425339_1,GGA,GGC,A>C,Other,GAT,G,T,Other
+1079,AB973400_1,GGA,GGT,A>T,Other,GAT,G,T,Other
+1079,HM769724_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,HQ437707_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,KC182587_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,KC182588_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,KC182589_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,MG049743_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,MN062164_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,MN062165_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,MN062166_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,OK625565_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,OM291915_1,GGA,AAG,G>A,G>A (Transition),TGG,T,G,GpG Context
+1079,OM291915_1,GGA,AAG,G>A,G>A (Transition),GGA,G,A,GpA Context (Antisense APOBEC)
+1079,OM291915_1,GGA,AAG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,ON496631_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,ON496632_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,ON524415_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,ON524416_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,ON524417_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,ON524419_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,ON524420_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,ON524421_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,ON524422_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,ON524424_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,ON524425_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,ON524427_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,ON524428_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,ON524435_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,ON524439_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,ON524443_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,ON524458_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,ON524459_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,ON524473_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,ON524519_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,ON524522_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,ON524534_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,ON524535_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,ON661550_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,ON661551_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,ON661552_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,ON661553_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,OR606575_1,GGA,GGT,A>T,Other,GAT,G,T,Other
+1079,PP661694_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,PP661695_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,PP661696_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,PP661697_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,PP661698_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1079,PP661699_1,GGA,GGG,A>G,A>G (Transition),GAT,G,T,GpA Context
+1082,AB839692_1,CAT,CRT,A>R,Other,CAT,C,T,Other
+1082,KF724019_1,CAT,CAA,T>A,Other,ATT,A,T,Other
+1082,KF724021_1,CAT,CAA,T>A,Other,ATT,A,T,Other
+1082,KF724022_1,CAT,CAA,T>A,Other,ATT,A,T,Other
+1082,KF724023_1,CAT,CAA,T>A,Other,ATT,A,T,Other
+1082,KX088647_1,CAT,CAA,T>A,Other,ATT,A,T,Other
+1082,MW405346_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+1114,AB425339_1,CTT,CTG,T>G,Other,TTT,T,T,Other
+1114,AB973400_1,CTT,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+1114,AB973400_1,CTT,TTG,T>G,Other,TTT,T,T,Other
+1114,KP177964_1,CTT,CTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1114,KP177965_1,CTT,CTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1114,LC049337_1,CTT,CTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1114,LC049338_1,CTT,CTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1114,LC049339_1,CTT,CTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1114,LC049342_1,CTT,CTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1114,LC515196_1,CTT,CTA,T>A,Other,TTT,T,T,Other
+1114,LC515197_1,CTT,CTA,T>A,Other,TTT,T,T,Other
+1114,LC515198_1,CTT,CTA,T>A,Other,TTT,T,T,Other
+1114,LC515199_1,CTT,CTA,T>A,Other,TTT,T,T,Other
+1114,LC515200_1,CTT,CTA,T>A,Other,TTT,T,T,Other
+1114,LC515202_1,CTT,CTA,T>A,Other,TTT,T,T,Other
+1114,MH933766_1,CTT,CTA,T>A,Other,TTT,T,T,Other
+1114,MH933767_1,CTT,CTA,T>A,Other,TTT,T,T,Other
+1114,MH933768_1,CTT,CTA,T>A,Other,TTT,T,T,Other
+1114,MW405347_1,CTT,CTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1114,OM291915_1,CTT,AGC,C>A,Other,GCT,G,T,Other
+1114,OM291915_1,CTT,AGC,T>G,Other,CTT,C,T,Other
+1114,OM291915_1,CTT,AGC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1114,ON911719_1,CTT,CTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1114,ON911720_1,CTT,CTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1114,ON911722_1,CTT,CTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1114,OR606575_1,CTT,CTG,T>G,Other,TTT,T,T,Other
+1155,KF569906_1,AAA,AGA,A>G,A>G (Transition),AAA,A,A,ApA Context (ADAR-like)
+1155,KX228694_1,AAA,TTA,A>T,Other,CAA,C,A,Other
+1155,KX228694_1,AAA,TTA,A>T,Other,AAA,A,A,Other
+1155,LC128713_1,AAA,AAG,A>G,A>G (Transition),AAA,A,A,ApA Context (ADAR-like)
+1155,LC515196_1,AAA,AAG,A>G,A>G (Transition),AAA,A,A,ApA Context (ADAR-like)
+1155,LC515197_1,AAA,AAG,A>G,A>G (Transition),AAA,A,A,ApA Context (ADAR-like)
+1155,LC515198_1,AAA,AAG,A>G,A>G (Transition),AAA,A,A,ApA Context (ADAR-like)
+1155,LC515199_1,AAA,AAG,A>G,A>G (Transition),AAA,A,A,ApA Context (ADAR-like)
+1155,LC515200_1,AAA,AAG,A>G,A>G (Transition),AAA,A,A,ApA Context (ADAR-like)
+1155,LC515202_1,AAA,AAG,A>G,A>G (Transition),AAA,A,A,ApA Context (ADAR-like)
+1155,MH933766_1,AAA,AAG,A>G,A>G (Transition),AAA,A,A,ApA Context (ADAR-like)
+1155,MH933767_1,AAA,AAG,A>G,A>G (Transition),AAA,A,A,ApA Context (ADAR-like)
+1155,MH933768_1,AAA,AAG,A>G,A>G (Transition),AAA,A,A,ApA Context (ADAR-like)
+1155,MN746031_1,AAA,TTA,A>T,Other,CAA,C,A,Other
+1155,MN746031_1,AAA,TTA,A>T,Other,AAA,A,A,Other
+1155,MN746032_1,AAA,TTA,A>T,Other,CAA,C,A,Other
+1155,MN746032_1,AAA,TTA,A>T,Other,AAA,A,A,Other
+1155,ON524420_1,AAA,AAG,A>G,A>G (Transition),AAA,A,A,ApA Context (ADAR-like)
+1176,LC128713_1,CAG,CAA,G>A,G>A (Transition),AGA,A,A,GpA Context (Antisense APOBEC)
+1176,MG049743_1,CAG,CTA,A>T,Other,CAG,C,G,Other
+1176,MG049743_1,CAG,CTA,G>A,G>A (Transition),AGA,A,A,GpA Context (Antisense APOBEC)
+1176,MW405348_1,CAG,CAA,G>A,G>A (Transition),AGA,A,A,GpA Context (Antisense APOBEC)
+1176,OK625565_1,CAG,CTA,A>T,Other,CAG,C,G,Other
+1176,OK625565_1,CAG,CTA,G>A,G>A (Transition),AGA,A,A,GpA Context (Antisense APOBEC)
+1176,OM291917_1,CAG,CCA,A>C,Other,CAG,C,G,Other
+1176,OM291917_1,CAG,CCA,G>A,G>A (Transition),AGA,A,A,GpA Context (Antisense APOBEC)
+1176,ON524431_1,CAG,CAA,G>A,G>A (Transition),AGA,A,A,GpA Context (Antisense APOBEC)
+1177,AB618529_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,AB618531_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,AB819870_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,AB839695_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,AB909123_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,AB973401_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,HM769724_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,HQ437707_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,KC182587_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,KC182588_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,KC182589_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,KF773842_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,KJ427799_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,KP177964_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,KP177965_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,LC049337_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,LC049338_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,LC049339_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,LC049341_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,LC049342_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,LC191189_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,LC416593_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,LC416594_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,LC416595_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,LC435031_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,LC435032_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,MG049743_1,AGT,GCG,A>G,A>G (Transition),GAG,G,G,GpA Context
+1177,MG049743_1,AGT,GCG,G>C,Other,AGT,A,T,Other
+1177,MG049743_1,AGT,GCG,T>G,Other,GTT,G,T,Other
+1177,MN062164_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,MN062165_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,MN062166_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,MN832786_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,MW405346_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,MW405347_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,MW405348_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,OK625565_1,AGT,GCG,A>G,A>G (Transition),GAG,G,G,GpA Context
+1177,OK625565_1,AGT,GCG,G>C,Other,AGT,A,T,Other
+1177,OK625565_1,AGT,GCG,T>G,Other,GTT,G,T,Other
+1177,OM291913_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,OM291914_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,OM291915_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,OM291916_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,OM291917_1,AGT,GAG,A>G,A>G (Transition),GAG,G,G,GpA Context
+1177,OM291917_1,AGT,GAG,G>A,G>A (Transition),AGT,A,T,GpT Context
+1177,OM291917_1,AGT,GAG,T>G,Other,GTT,G,T,Other
+1177,OM291918_1,AGT,AGA,T>A,Other,GTT,G,T,Other
+1177,ON496631_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON496632_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON524415_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON524416_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON524417_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON524419_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON524420_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON524421_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON524422_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON524424_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON524425_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON524427_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON524428_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON524431_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON524435_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON524439_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON524443_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON524458_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON524459_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON524473_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON524519_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON524522_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON524534_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON524535_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON661550_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON661551_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON661552_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON661553_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON911719_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON911720_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON911721_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,ON911722_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,OR606576_2,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,PP389036_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,PP389037_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,PP389039_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,PP389040_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,PP389044_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,PP661694_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,PP661695_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,PP661696_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,PP661698_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,PP661699_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,PQ008999_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,PQ009000_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1177,PQ496830_1,AGT,AGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+1178,AB425339_1,TTT,ATT,T>A,Other,TTT,T,T,Other
+1178,AB973400_1,TTT,ATT,T>A,Other,TTT,T,T,Other
+1178,HQ437707_1,TTT,ATC,T>A,Other,TTT,T,T,Other
+1178,HQ437707_1,TTT,ATC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,KC182587_1,TTT,TTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,KC182588_1,TTT,TTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,KC182589_1,TTT,TTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,LC515196_1,TTT,TTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,LC515197_1,TTT,TTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,LC515198_1,TTT,TTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,LC515199_1,TTT,TTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,LC515200_1,TTT,TTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,LC515202_1,TTT,TTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,MG049743_1,TTT,ACC,T>A,Other,TTT,T,T,Other
+1178,MG049743_1,TTT,ACC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,MG049743_1,TTT,ACC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,MH933766_1,TTT,TTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,MH933767_1,TTT,TTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,MH933768_1,TTT,TTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,MN062164_1,TTT,TTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,MN062165_1,TTT,TTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,OK625565_1,TTT,ACC,T>A,Other,TTT,T,T,Other
+1178,OK625565_1,TTT,ACC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,OK625565_1,TTT,ACC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,OM291917_1,TTT,CTT,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,ON496631_1,TTT,TTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,ON524415_1,TTT,TTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,ON524427_1,TTT,TTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,ON524435_1,TTT,TTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,ON524439_1,TTT,TTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,ON524519_1,TTT,TTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,ON524522_1,TTT,TTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,ON661550_1,TTT,TTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,OR606575_1,TTT,ATT,T>A,Other,TTT,T,T,Other
+1178,PP661694_1,TTT,TTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,PP661696_1,TTT,TTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1178,PP661699_1,TTT,TTC,T>C,T>C (Transition),TTT,T,T,TpT Context
+1293,AB425339_1,TCA,GCT,T>G,Other,GTC,G,C,Other
+1293,AB425339_1,TCA,GCT,A>T,Other,CAC,C,C,Other
+1293,AB839694_1,TCA,TCC,A>C,Other,CAC,C,C,Other
+1293,AB973400_1,TCA,GCC,T>G,Other,GTC,G,C,Other
+1293,AB973400_1,TCA,GCC,A>C,Other,CAC,C,C,Other
+1293,KF724018_1,TCA,TTA,C>T,C>T (Transition),TCA,T,A,TpC Context (APOBEC-like)
+1293,KF724019_1,TCA,TTA,C>T,C>T (Transition),TCA,T,A,TpC Context (APOBEC-like)
+1293,KF724020_1,TCA,TTA,C>T,C>T (Transition),TCA,T,A,TpC Context (APOBEC-like)
+1293,KF724021_1,TCA,TTA,C>T,C>T (Transition),TCA,T,A,TpC Context (APOBEC-like)
+1293,KF724022_1,TCA,TTA,C>T,C>T (Transition),TCA,T,A,TpC Context (APOBEC-like)
+1293,KF724023_1,TCA,TTA,C>T,C>T (Transition),TCA,T,A,TpC Context (APOBEC-like)
+1293,KF773842_1,TCA,TCT,A>T,Other,CAC,C,C,Other
+1293,KJ427799_1,TCA,TCT,A>T,Other,CAC,C,C,Other
+1293,KX088647_1,TCA,TTA,C>T,C>T (Transition),TCA,T,A,TpC Context (APOBEC-like)
+1293,LC128713_1,TCA,TCC,A>C,Other,CAC,C,C,Other
+1293,ON524463_1,TCA,TTA,C>T,C>T (Transition),TCA,T,A,TpC Context (APOBEC-like)
+1293,OR477196_1,TCA,TTA,C>T,C>T (Transition),TCA,T,A,TpC Context (APOBEC-like)
+1293,OR606575_1,TCA,GCC,T>G,Other,GTC,G,C,Other
+1293,OR606575_1,TCA,GCC,A>C,Other,CAC,C,C,Other
+1311,AB973400_1,TCT,TCA,T>A,Other,CTA,C,A,Other
+1311,KF724017_1,TCT,TTT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+1311,KF724018_1,TCT,TGT,C>G,Other,TCT,T,T,Other
+1311,KF724019_1,TCT,TTT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+1311,KF724020_1,TCT,TGT,C>G,Other,TCT,T,T,Other
+1311,KF724021_1,TCT,TGT,C>G,Other,TCT,T,T,Other
+1311,KF724022_1,TCT,TGT,C>G,Other,TCT,T,T,Other
+1311,KF724023_1,TCT,TGT,C>G,Other,TCT,T,T,Other
+1311,KX035096_1,TCT,TTT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+1311,KX088647_1,TCT,TGT,C>G,Other,TCT,T,T,Other
+1311,LC515196_1,TCT,TCC,T>C,T>C (Transition),CTA,C,A,CpT Context
+1311,LC515197_1,TCT,TCC,T>C,T>C (Transition),CTA,C,A,CpT Context
+1311,LC515198_1,TCT,TCC,T>C,T>C (Transition),CTA,C,A,CpT Context
+1311,LC515199_1,TCT,TCC,T>C,T>C (Transition),CTA,C,A,CpT Context
+1311,LC515200_1,TCT,TCC,T>C,T>C (Transition),CTA,C,A,CpT Context
+1311,LC515202_1,TCT,TCC,T>C,T>C (Transition),CTA,C,A,CpT Context
+1311,MH933766_1,TCT,TCC,T>C,T>C (Transition),CTA,C,A,CpT Context
+1311,MH933767_1,TCT,TCC,T>C,T>C (Transition),CTA,C,A,CpT Context
+1311,MH933768_1,TCT,TCC,T>C,T>C (Transition),CTA,C,A,CpT Context
+1311,MK829707_1,TCT,TTT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+1311,MT181522_1,TCT,TTT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+1311,OQ077995_1,TCT,TCC,T>C,T>C (Transition),CTA,C,A,CpT Context
+1311,OQ791466_1,TCT,TCC,T>C,T>C (Transition),CTA,C,A,CpT Context
+1311,OR606575_1,TCT,TCA,T>A,Other,CTA,C,A,Other
+1311,PQ009001_1,TCT,TTT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+1323,AB973400_1,GTT,GTC,T>C,T>C (Transition),TTG,T,G,TpT Context
+1323,KX228694_1,GTT,AGA,G>A,G>A (Transition),AGT,A,T,GpT Context
+1323,KX228694_1,GTT,AGA,T>G,Other,GTT,G,T,Other
+1323,KX228694_1,GTT,AGA,T>A,Other,TTG,T,G,Other
+1323,LC515196_1,GTT,GTG,T>G,Other,TTG,T,G,Other
+1323,LC515197_1,GTT,GTG,T>G,Other,TTG,T,G,Other
+1323,LC515198_1,GTT,GTG,T>G,Other,TTG,T,G,Other
+1323,LC515199_1,GTT,GTG,T>G,Other,TTG,T,G,Other
+1323,LC515200_1,GTT,GTG,T>G,Other,TTG,T,G,Other
+1323,LC515202_1,GTT,GTG,T>G,Other,TTG,T,G,Other
+1323,MH933766_1,GTT,GTG,T>G,Other,TTG,T,G,Other
+1323,MH933767_1,GTT,GTG,T>G,Other,TTG,T,G,Other
+1323,MH933768_1,GTT,GTG,T>G,Other,TTG,T,G,Other
+1323,MN746031_1,GTT,AGA,G>A,G>A (Transition),AGT,A,T,GpT Context
+1323,MN746031_1,GTT,AGA,T>G,Other,GTT,G,T,Other
+1323,MN746031_1,GTT,AGA,T>A,Other,TTG,T,G,Other
+1323,MN746032_1,GTT,AGA,G>A,G>A (Transition),AGT,A,T,GpT Context
+1323,MN746032_1,GTT,AGA,T>G,Other,GTT,G,T,Other
+1323,MN746032_1,GTT,AGA,T>A,Other,TTG,T,G,Other
+1323,MW405347_1,GTT,GGT,T>G,Other,GTT,G,T,Other
+1323,MW405348_1,GTT,GGT,T>G,Other,GTT,G,T,Other
+1323,OM291918_1,GTT,GGT,T>G,Other,GTT,G,T,Other
+1323,OR606575_1,GTT,GTC,T>C,T>C (Transition),TTG,T,G,TpT Context
+1341,AB425339_1,GCA,GCT,A>T,Other,CAT,C,T,Other
+1341,AB973400_1,GCA,GCT,A>T,Other,CAT,C,T,Other
+1341,KX228694_1,GCA,TTA,G>T,Other,TGC,T,C,Other
+1341,KX228694_1,GCA,TTA,C>T,C>T (Transition),GCA,G,A,GpC Context
+1341,MN746031_1,GCA,TTA,G>T,Other,TGC,T,C,Other
+1341,MN746031_1,GCA,TTA,C>T,C>T (Transition),GCA,G,A,GpC Context
+1341,MN746032_1,GCA,TTA,G>T,Other,TGC,T,C,Other
+1341,MN746032_1,GCA,TTA,C>T,C>T (Transition),GCA,G,A,GpC Context
+1341,OR606575_1,GCA,GCT,A>T,Other,CAT,C,T,Other
+1434,LC128713_1,AAT,AAC,T>C,T>C (Transition),ATC,A,C,ApT Context
+1434,MN746031_1,AAT,TGT,A>T,Other,AAA,A,A,Other
+1434,MN746031_1,AAT,TGT,A>G,A>G (Transition),AAT,A,T,ApA Context (ADAR-like)
+1434,MN746032_1,AAT,TGT,A>T,Other,AAA,A,A,Other
+1434,MN746032_1,AAT,TGT,A>G,A>G (Transition),AAT,A,T,ApA Context (ADAR-like)
+1434,MN832785_1,AAT,AAC,T>C,T>C (Transition),ATC,A,C,ApT Context
+1434,MW405349_1,AAT,TAT,A>T,Other,AAA,A,A,Other
+1449,AB618529_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,AB793725_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,AB793726_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,AB819870_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,AB909123_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,AB969748_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,AB973400_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,AB973401_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,HM769724_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,HQ437707_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,KF773842_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,KJ427799_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,KP177964_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,KP177965_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,LC035020_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,LC049337_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,LC049338_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,LC049339_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,LC049340_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,LC049342_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,LC191189_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,LC373510_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,LC416593_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,LC416594_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,LC416595_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,LC435031_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,LC435032_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,LC515202_1,AGA,CCA,A>C,Other,CAG,C,G,Other
+1449,LC515202_1,AGA,CCA,G>C,Other,AGA,A,A,Other
+1449,MN832786_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,MW405346_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,MW405347_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,MW405348_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,MW405349_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,OM291913_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,OM291914_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,OM291915_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,OM291916_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,OM291917_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,OM291918_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,ON524415_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,ON524425_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,ON524431_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,ON911719_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,ON911720_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,ON911721_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,ON911722_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,OR606575_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,OR606576_2,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,PP389036_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,PP389037_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,PP389039_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,PP389040_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,PP389041_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,PP389042_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,PP389044_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,PP661695_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,PP661698_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,PQ008999_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1449,PQ496830_1,AGA,AGG,A>G,A>G (Transition),GAC,G,C,GpA Context
+1555,MW405346_1,CCA,CAT,C>A,Other,CCA,C,A,Other
+1555,MW405346_1,CCA,CAT,A>T,Other,CAT,C,T,Other
+1555,MW405349_1,CCA,CAT,C>A,Other,CCA,C,A,Other
+1555,MW405349_1,CCA,CAT,A>T,Other,CAT,C,T,Other
+1747,AB839695_1,ATT,ATA,T>A,Other,TTA,T,A,Other
+1747,KC182587_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,KC182588_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,KC182589_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,LC049340_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,LC049341_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,LC515196_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,LC515197_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,LC515198_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,LC515199_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,LC515200_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,LC515202_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,MG049743_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,MH933766_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,MH933767_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,MH933768_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,MN062164_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,MN062165_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,MN062166_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,MW405346_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,OK625565_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,OM291914_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,OM291915_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,OM291918_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,ON496631_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,ON496632_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,ON524415_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,ON524416_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,ON524417_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,ON524419_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,ON524420_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,ON524421_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,ON524422_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,ON524424_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,ON524428_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,ON524439_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,ON524443_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,ON524458_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,ON524459_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,ON524473_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,ON524494_1,ATT,GTT,A>G,A>G (Transition),TAT,T,T,TpA Context (ADAR-like)
+1747,ON524503_1,ATT,GTT,A>G,A>G (Transition),TAT,T,T,TpA Context (ADAR-like)
+1747,ON524519_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,ON524522_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,ON524534_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,ON524535_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,ON661550_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,ON661551_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,ON661552_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,ON661553_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,ON911719_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,ON911720_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,ON911721_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,PP389041_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,PP389042_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,PP661694_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1747,PP661699_1,ATT,ATC,T>C,T>C (Transition),TTA,T,A,TpT Context
+1749,AB425339_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,AB973400_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,KF724019_1,AAA,CAA,A>C,Other,GAA,G,A,Other
+1749,KF724023_1,AAA,CAA,A>C,Other,GAA,G,A,Other
+1749,KP177964_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,KP177965_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,KX088647_1,AAA,CAA,A>C,Other,GAA,G,A,Other
+1749,LC049337_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,LC049338_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,LC049339_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,MH577308_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,MH577309_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,MH577310_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,MH577311_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,MH577312_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,MN832785_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,MW405347_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,MW405348_1,AAA,AGG,A>G,A>G (Transition),AAA,A,A,ApA Context (ADAR-like)
+1749,MW405348_1,AAA,AGG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,OM291916_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,OM291918_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON496633_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524423_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524432_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524436_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524438_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524440_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524442_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524444_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524445_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524446_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524448_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524449_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524450_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524451_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524457_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524462_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524464_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524465_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524467_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524468_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524469_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524471_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524474_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524478_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524482_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524484_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524492_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524494_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524496_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524497_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524498_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524500_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524501_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524502_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524503_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524507_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524509_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524510_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524514_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524515_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524516_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524517_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524518_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524520_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524524_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524526_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524528_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524529_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524530_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524531_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON524533_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON661554_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON661556_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON661557_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON911719_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,ON911720_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,OR606575_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1749,PP860039_1,AAA,AAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1812,AB425339_1,GAA,GAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1812,AB618529_1,GAA,GAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1812,AB973401_1,GAA,GAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1812,LC515196_1,GAA,GAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1812,LC515197_1,GAA,GAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1812,LC515198_1,GAA,GAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1812,LC515199_1,GAA,GAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1812,LC515200_1,GAA,GAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1812,LC515202_1,GAA,GAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1812,MH933766_1,GAA,GAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1812,MH933767_1,GAA,GAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1812,MH933768_1,GAA,GAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1812,MW405347_1,GAA,GTA,A>T,Other,GAA,G,A,Other
+1812,MW405348_1,GAA,GTA,A>T,Other,GAA,G,A,Other
+1812,OM291913_1,GAA,GTA,A>T,Other,GAA,G,A,Other
+1812,OM291914_1,GAA,GTA,A>T,Other,GAA,G,A,Other
+1812,OM291915_1,GAA,GTA,A>T,Other,GAA,G,A,Other
+1812,OM291916_1,GAA,GTA,A>T,Other,GAA,G,A,Other
+1812,OM291917_1,GAA,GTA,A>T,Other,GAA,G,A,Other
+1812,OM291918_1,GAA,GTA,A>T,Other,GAA,G,A,Other
+1812,PP860039_1,GAA,GAG,A>G,A>G (Transition),AAG,A,G,ApA Context (ADAR-like)
+1824,AB425339_1,TCA,TCC,A>C,Other,CAT,C,T,Other
+1824,AB973400_1,TCA,TCT,A>T,Other,CAT,C,T,Other
+1824,KY003229_1,TCA,TCC,A>C,Other,CAT,C,T,Other
+1824,MG049743_1,TCA,TCT,A>T,Other,CAT,C,T,Other
+1824,MH685714_1,TCA,TCC,A>C,Other,CAT,C,T,Other
+1824,OK625565_1,TCA,TCT,A>T,Other,CAT,C,T,Other
+1824,ON524429_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524433_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524441_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524452_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524453_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524455_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524456_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524461_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524463_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524466_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524470_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524472_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524475_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524476_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524477_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524479_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524480_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524481_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524483_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524487_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524488_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524489_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524491_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524493_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524499_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524504_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524506_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524508_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524512_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524521_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,ON524532_1,TCA,ACA,T>A,Other,TTC,T,C,Other
+1824,OQ077984_1,TCA,TCC,A>C,Other,CAT,C,T,Other
+1824,OQ077985_1,TCA,TCC,A>C,Other,CAT,C,T,Other
+1824,OQ077995_1,TCA,TCC,A>C,Other,CAT,C,T,Other
+1824,OR606575_1,TCA,TCT,A>T,Other,CAT,C,T,Other
+1824,PP661694_1,TCA,TCT,A>T,Other,CAT,C,T,Other
+1824,PP661699_1,TCA,TCT,A>T,Other,CAT,C,T,Other
+1873,MW405348_1,TTT,ATA,T>A,Other,GTT,G,T,Other
+1873,MW405348_1,TTT,ATA,T>A,Other,TTA,T,A,Other
+1876,MW405348_1,TGT,GGG,T>G,Other,GTG,G,G,Other
+1876,MW405348_1,TGT,GGG,T>G,Other,GTT,G,T,Other
+2027,AB425339_1,TTA,CTG,T>C,T>C (Transition),CTT,C,T,CpT Context
+2027,AB425339_1,TTA,CTG,A>G,A>G (Transition),TAT,T,T,TpA Context (ADAR-like)
+2027,KF724018_1,TTA,TCA,T>C,T>C (Transition),TTA,T,A,TpT Context
+2027,KF724019_1,TTA,TCA,T>C,T>C (Transition),TTA,T,A,TpT Context
+2027,KF724020_1,TTA,TCA,T>C,T>C (Transition),TTA,T,A,TpT Context
+2027,KF724021_1,TTA,TCA,T>C,T>C (Transition),TTA,T,A,TpT Context
+2027,KF724022_1,TTA,TCA,T>C,T>C (Transition),TTA,T,A,TpT Context
+2027,KF724023_1,TTA,TCA,T>C,T>C (Transition),TTA,T,A,TpT Context
+2027,KX088647_1,TTA,TCA,T>C,T>C (Transition),TTA,T,A,TpT Context
+2027,LC515196_1,TTA,CTA,T>C,T>C (Transition),CTT,C,T,CpT Context
+2027,LC515197_1,TTA,CTA,T>C,T>C (Transition),CTT,C,T,CpT Context
+2027,LC515198_1,TTA,CTA,T>C,T>C (Transition),CTT,C,T,CpT Context
+2027,LC515199_1,TTA,CTA,T>C,T>C (Transition),CTT,C,T,CpT Context
+2027,LC515200_1,TTA,CTA,T>C,T>C (Transition),CTT,C,T,CpT Context
+2027,LC515202_1,TTA,CTA,T>C,T>C (Transition),CTT,C,T,CpT Context
+2027,MH933766_1,TTA,CTA,T>C,T>C (Transition),CTT,C,T,CpT Context
+2027,MH933768_1,TTA,CTA,T>C,T>C (Transition),CTT,C,T,CpT Context
+2027,MT181522_1,TTA,TCA,T>C,T>C (Transition),TTA,T,A,TpT Context
+2027,PP860039_1,TTA,TTG,A>G,A>G (Transition),TAT,T,T,TpA Context (ADAR-like)
+2128,AB618529_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,AB618531_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,AB793725_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,AB793726_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,AB973401_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,MH577313_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,MH577314_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,OM291918_1,GGA,TGG,G>T,Other,CGG,C,G,Other
+2128,OM291918_1,GGA,TGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524426_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524429_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524430_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524433_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524434_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524437_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524441_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524452_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524453_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524455_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524456_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524460_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524461_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524463_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524466_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524470_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524472_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524475_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524476_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524477_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524479_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524480_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524481_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524483_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524487_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524488_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524489_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524491_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524493_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524499_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524504_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524506_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524508_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524512_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524521_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON524532_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON661555_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON661558_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2128,ON661559_1,GGA,GGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2129,OM291914_1,GAT,ATG,G>A,G>A (Transition),AGA,A,A,GpA Context (Antisense APOBEC)
+2129,OM291914_1,GAT,ATG,A>T,Other,GAT,G,T,Other
+2129,OM291914_1,GAT,ATG,T>G,Other,ATG,A,G,Other
+2129,OM291918_1,GAT,AGA,G>A,G>A (Transition),AGA,A,A,GpA Context (Antisense APOBEC)
+2129,OM291918_1,GAT,AGA,A>G,A>G (Transition),GAT,G,T,GpA Context
+2129,OM291918_1,GAT,AGA,T>A,Other,ATG,A,G,Other
+2130,AB819869_1,GTT,GTC,T>C,T>C (Transition),TTG,T,G,TpT Context
+2130,MW405348_1,GTT,GCA,T>C,T>C (Transition),GTT,G,T,GpT Context
+2130,MW405348_1,GTT,GCA,T>A,Other,TTG,T,G,Other
+2130,OM291914_1,GTT,TTG,G>T,Other,TGT,T,T,Other
+2130,OM291914_1,GTT,TTG,T>G,Other,TTG,T,G,Other
+2130,OM291918_1,GTT,TGT,G>T,Other,TGT,T,T,Other
+2130,OM291918_1,GTT,TGT,T>G,Other,GTT,G,T,Other
+2130,PP860039_1,GTT,GTC,T>C,T>C (Transition),TTG,T,G,TpT Context
+2131,MW405348_1,GGT,GCT,G>C,Other,GGT,G,T,Other
+2131,OM291914_1,GGT,AAC,G>A,G>A (Transition),TGG,T,G,GpG Context
+2131,OM291914_1,GGT,AAC,G>A,G>A (Transition),GGT,G,T,GpT Context
+2131,OM291914_1,GGT,AAC,T>C,T>C (Transition),GTC,G,C,GpT Context
+2131,OM291918_1,GGT,TGG,G>T,Other,TGG,T,G,Other
+2131,OM291918_1,GGT,TGG,T>G,Other,GTC,G,C,Other
+2131,OQ161772_2,GGT,GAT,G>A,G>A (Transition),GGT,G,T,GpT Context
+2132,AB425339_1,CTT,TTA,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+2132,AB425339_1,CTT,TTA,T>A,Other,TTG,T,G,Other
+2132,AB973400_1,CTT,CTA,T>A,Other,TTG,T,G,Other
+2132,OM291914_1,CTT,TTG,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+2132,OM291914_1,CTT,TTG,T>G,Other,TTG,T,G,Other
+2132,OM291918_1,CTT,TCT,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+2132,OM291918_1,CTT,TCT,T>C,T>C (Transition),CTT,C,T,CpT Context
+2132,OR606575_1,CTT,TTA,C>T,C>T (Transition),TCT,T,T,TpC Context (APOBEC-like)
+2132,OR606575_1,CTT,TTA,T>A,Other,TTG,T,G,Other
+2133,AB618529_1,GAT,GAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2133,AB618531_1,GAT,GAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2133,AB819869_1,GAT,GAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2133,AB839692_1,GAT,GAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2133,AB839694_1,GAT,GAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2133,AB839695_1,GAT,GAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2133,AB839696_1,GAT,GAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2133,AB839697_1,GAT,GAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2133,AB973401_1,GAT,GAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2133,HM769724_1,GAT,GAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2133,LC515201_1,GAT,GAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2133,MH685714_1,GAT,GAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2133,MN832786_1,GAT,GAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2133,MW405348_1,GAT,GAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2133,OM291914_1,GAT,ATT,G>A,G>A (Transition),TGA,T,A,GpA Context (Antisense APOBEC)
+2133,OM291914_1,GAT,ATT,A>T,Other,GAT,G,T,Other
+2133,OM291918_1,GAT,TGT,G>T,Other,TGA,T,A,Other
+2133,OM291918_1,GAT,TGT,A>G,A>G (Transition),GAT,G,T,GpA Context
+2133,ON524425_1,GAT,GAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2133,ON524431_1,GAT,GAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2133,OQ077984_1,GAT,GAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2133,OQ077985_1,GAT,GAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2133,OR606576_2,GAT,GAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2133,PP661695_1,GAT,GAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2133,PP661698_1,GAT,GAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2149,AB618529_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,AB618531_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,AB793725_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,AB793726_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,AB819869_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,AB819870_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,AB839692_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,AB839693_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,AB839694_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,AB839695_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,AB839696_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,AB839697_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,AB909123_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,AB969748_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,AB973400_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,AB973401_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,HQ437707_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,KC182587_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,KC182588_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,KC182589_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,KF773842_1,AGA,CGG,A>C,Other,TAG,T,G,Other
+2149,KF773842_1,AGA,CGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,KJ427799_1,AGA,CGG,A>C,Other,TAG,T,G,Other
+2149,KJ427799_1,AGA,CGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,KP177964_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,KP177965_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,LC035020_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,LC049337_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,LC049338_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,LC049339_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,LC049340_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,LC049341_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,LC049342_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,LC191189_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,LC373510_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,LC416593_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,LC416594_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,LC416595_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,LC435031_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,LC435032_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,MG049743_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,MH577313_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,MH577314_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,MH933767_1,AGA,AAG,G>A,G>A (Transition),AGA,A,A,GpA Context (Antisense APOBEC)
+2149,MH933767_1,AGA,AAG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,MN062164_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,MN062165_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,MN062166_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,MW405346_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,MW405347_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,MW405348_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,MW405349_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,OK625565_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,OM291913_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,OM291914_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,OM291915_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,OM291916_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,OM291917_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,OM291918_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON496631_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON496632_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524415_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524416_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524417_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524419_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524420_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524421_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524422_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524424_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524426_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524427_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524428_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524429_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524430_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524431_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524433_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524434_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524435_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524437_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524439_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524441_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524443_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524452_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524453_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524455_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524456_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524458_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524459_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524460_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524461_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524463_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524466_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524470_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524472_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524473_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524475_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524476_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524477_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524479_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524480_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524481_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524483_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524487_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524488_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524489_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524491_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524493_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524499_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524504_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524506_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524508_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524512_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524519_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524521_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524522_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524532_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524534_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON524535_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON661550_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON661551_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON661552_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON661553_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON661555_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON661558_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON661559_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON911719_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON911720_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON911721_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,ON911722_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,OR031237_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,OR606575_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,OR606576_2,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,PP389036_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,PP389037_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,PP389039_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,PP389040_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,PP389041_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,PP389042_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,PP389044_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,PP661694_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,PP661696_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,PP661699_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,PP860039_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,PQ008999_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,PQ009000_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2149,PQ496830_1,AGA,AGG,A>G,A>G (Transition),GAG,G,G,GpA Context
+2178,LC049340_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,MH577308_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,MH577309_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,MH577310_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,MH577311_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,MH577312_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,MN832785_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,OM291918_1,CAT,TGT,C>T,C>T (Transition),GCA,G,A,GpC Context
+2178,OM291918_1,CAT,TGT,A>G,A>G (Transition),CAT,C,T,CpA Context
+2178,ON496633_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524423_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524432_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524436_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524438_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524440_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524442_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524444_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524445_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524446_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524448_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524449_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524450_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524451_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524457_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524462_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524464_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524465_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524467_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524468_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524469_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524471_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524474_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524478_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524482_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524484_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524492_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524494_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524496_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524497_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524498_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524500_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524501_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524502_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524503_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524507_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524509_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524510_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524514_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524515_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524516_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524517_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524518_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524520_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524524_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524526_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524528_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524529_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524530_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524531_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON524533_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON661554_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON661556_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2178,ON661557_1,CAT,CAC,T>C,T>C (Transition),ATT,A,T,ApT Context
+2179,HM769724_1,TTG,CTG,T>C,T>C (Transition),TTT,T,T,TpT Context
+2179,HQ437707_1,TTG,CTG,T>C,T>C (Transition),TTT,T,T,TpT Context
+2179,KC182587_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,KC182588_1,TTG,CTA,T>C,T>C (Transition),TTT,T,T,TpT Context
+2179,KC182588_1,TTG,CTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,KC182589_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,LC515196_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,LC515197_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,LC515198_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,LC515199_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,LC515200_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,LC515202_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,MG049743_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,MH933766_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,MH933768_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,MK829707_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,MN062164_1,TTG,CTA,T>C,T>C (Transition),TTT,T,T,TpT Context
+2179,MN062164_1,TTG,CTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,MN062165_1,TTG,CTA,T>C,T>C (Transition),TTT,T,T,TpT Context
+2179,MN062165_1,TTG,CTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,MN062166_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,MW405349_1,TTG,CTG,T>C,T>C (Transition),TTT,T,T,TpT Context
+2179,OK625565_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,OM291914_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,OM291918_1,TTG,GCA,T>G,Other,TTT,T,T,Other
+2179,OM291918_1,TTG,GCA,T>C,T>C (Transition),TTG,T,G,TpT Context
+2179,OM291918_1,TTG,GCA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,ON496631_1,TTG,CTA,T>C,T>C (Transition),TTT,T,T,TpT Context
+2179,ON496631_1,TTG,CTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,ON496632_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,ON524415_1,TTG,CTA,T>C,T>C (Transition),TTT,T,T,TpT Context
+2179,ON524415_1,TTG,CTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,ON524416_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,ON524417_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,ON524419_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,ON524420_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,ON524421_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,ON524422_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,ON524424_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,ON524427_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,ON524428_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,ON524435_1,TTG,CTA,T>C,T>C (Transition),TTT,T,T,TpT Context
+2179,ON524435_1,TTG,CTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,ON524439_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,ON524443_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,ON524458_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,ON524459_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,ON524473_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,ON524519_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,ON524522_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,ON524534_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,ON524535_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,ON661550_1,TTG,CTA,T>C,T>C (Transition),TTT,T,T,TpT Context
+2179,ON661550_1,TTG,CTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,ON661551_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,ON661552_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,ON661553_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,PP661694_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,PP661696_1,TTG,CTA,T>C,T>C (Transition),TTT,T,T,TpT Context
+2179,PP661696_1,TTG,CTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,PP661699_1,TTG,TTA,G>A,G>A (Transition),TGC,T,C,GpC Context
+2179,PP860039_1,TTG,CTG,T>C,T>C (Transition),TTT,T,T,TpT Context
+2180,AB425339_1,CTG,CTC,G>C,Other,TGT,T,T,Other
+2180,AB973400_1,CTG,CTT,G>T,Other,TGT,T,T,Other
+2180,KX228694_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,KY003229_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,LC515196_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,LC515197_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,LC515198_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,LC515199_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,LC515200_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,LC515201_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,LC515202_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,MF621614_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,MH577312_1,CTG,CTC,G>C,Other,TGT,T,T,Other
+2180,MH577313_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,MH577314_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,MH685714_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,MH933766_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,MH933768_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,MN746031_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,MN746032_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,OM291914_1,CTG,TGT,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,OM291914_1,CTG,TGT,T>G,Other,CTG,C,G,Other
+2180,OM291914_1,CTG,TGT,G>T,Other,TGT,T,T,Other
+2180,OM291918_1,CTG,TCA,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,OM291918_1,CTG,TCA,T>C,T>C (Transition),CTG,C,G,CpT Context
+2180,OM291918_1,CTG,TCA,G>A,G>A (Transition),TGT,T,T,GpT Context
+2180,ON524426_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524429_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524430_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524433_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524434_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524437_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524441_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524452_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524453_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524455_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524456_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524460_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524461_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524463_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524466_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524470_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524472_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524475_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524476_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524477_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524479_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524480_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524481_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524483_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524487_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524488_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524489_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524491_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524493_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524499_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524504_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524506_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524508_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524512_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524521_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON524532_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON661555_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON661558_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,ON661559_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,OQ077984_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,OQ077985_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,OQ077995_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,OQ077996_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,OQ161772_2,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,OQ791466_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,OR031237_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,OR477188_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,OR477190_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,OR477193_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,OR477194_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,OR477195_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,OR477196_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,OR477197_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,OR477198_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,OR477199_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,OR477200_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,OR477202_1,CTG,TTG,C>T,C>T (Transition),GCT,G,T,GpC Context
+2180,OR606575_1,CTG,CTT,G>T,Other,TGT,T,T,Other
+2181,AB425339_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,AB618529_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,AB618531_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,AB793725_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,AB793726_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,AB819869_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,AB819870_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,AB839692_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,AB839693_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,AB839694_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,AB839695_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,AB839696_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,AB839697_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,AB909123_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,AB969748_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,AB973400_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,AB973401_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,HM769724_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,HQ437707_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,KC182587_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,KC182588_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,KC182589_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,KF773842_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,KJ427799_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,KP177964_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,KP177965_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,KX228694_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,KY003229_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,LC035020_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,LC049337_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,LC049338_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,LC049339_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,LC049340_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,LC049341_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,LC049342_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,LC128713_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,LC191189_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,LC373510_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,LC416593_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,LC416594_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,LC416595_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,LC435031_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,LC435032_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,LC515196_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,LC515197_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,LC515198_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,LC515199_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,LC515200_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,LC515201_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,LC515202_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,MF621614_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,MG049743_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,MH577308_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,MH577309_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,MH577310_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,MH577311_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,MH577312_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,MH577313_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,MH577314_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,MH685714_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,MH933766_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,MH933768_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,MN062164_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,MN062165_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,MN062166_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,MN746031_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,MN832785_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,MW405346_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,MW405347_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,MW405348_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,OK625565_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,OM291913_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,OM291914_1,TAT,ACA,T>A,Other,GTA,G,A,Other
+2181,OM291914_1,TAT,ACA,A>C,Other,TAT,T,T,Other
+2181,OM291914_1,TAT,ACA,T>A,Other,ATA,A,A,Other
+2181,OM291915_1,TAT,GAC,T>G,Other,GTA,G,A,Other
+2181,OM291915_1,TAT,GAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,OM291916_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,OM291917_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,OM291918_1,TAT,TGC,A>G,A>G (Transition),TAT,T,T,TpA Context (ADAR-like)
+2181,OM291918_1,TAT,TGC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON496631_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON496632_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON496633_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524415_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524416_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524417_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524419_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524420_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524421_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524422_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524423_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524424_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524425_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524426_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524427_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524428_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524429_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524430_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524431_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524432_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524433_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524434_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524435_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524436_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524437_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524438_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524439_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524440_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524441_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524442_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524443_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524444_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524445_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524446_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524448_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524449_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524450_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524451_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524452_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524453_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524455_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524456_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524457_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524458_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524459_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524460_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524461_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524462_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524463_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524464_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524465_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524466_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524467_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524468_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524469_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524470_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524471_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524472_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524473_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524474_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524475_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524476_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524477_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524478_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524479_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524480_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524481_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524482_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524483_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524484_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524487_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524488_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524489_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524491_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524492_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524493_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524494_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524496_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524497_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524498_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524499_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524500_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524501_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524502_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524503_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524504_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524506_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524507_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524508_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524509_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524510_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524512_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524514_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524515_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524516_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524517_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524518_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524519_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524520_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524521_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524522_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524524_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524526_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524528_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524529_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524530_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524531_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524532_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524533_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524534_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON524535_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON661550_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON661551_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON661552_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON661553_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON661554_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON661555_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON661556_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON661557_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON661558_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON661559_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON911719_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON911720_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON911721_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,ON911722_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,OQ077984_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,OQ077985_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,OQ077995_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,OQ077996_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,OQ161772_2,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,OQ791466_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,OR031237_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,OR477188_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,OR477190_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,OR477193_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,OR477194_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,OR477195_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,OR477196_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,OR477197_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,OR477198_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,OR477199_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,OR477200_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,OR477202_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,OR606576_2,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,PP389036_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,PP389037_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,PP389039_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,PP389040_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,PP389041_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,PP389042_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,PP389044_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,PP661694_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,PP661695_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,PP661696_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,PP661697_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,PP661698_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,PP661699_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,PP860039_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,PQ008999_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,PQ009000_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2181,PQ496830_1,TAT,TAC,T>C,T>C (Transition),ATA,A,A,ApT Context
+2182,AB425339_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,AB618529_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,AB618531_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,AB793725_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,AB793726_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,AB819869_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,AB819870_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,AB839692_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,AB839693_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,AB839694_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,AB839695_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,AB839696_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,AB839697_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,AB909123_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,AB969748_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,AB973400_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,AB973401_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,HM769724_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,HQ437707_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,KC182588_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,KP177964_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,KP177965_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,LC035020_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,LC049337_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,LC049338_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,LC049339_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,LC049340_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,LC049341_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,LC049342_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,LC128713_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,LC191189_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,LC373510_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,LC416593_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,LC416594_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,LC416595_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,LC435031_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,LC435032_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,LC515196_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,LC515197_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,LC515198_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,LC515199_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,LC515200_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,LC515201_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,LC515202_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,MG049743_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,MH577313_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,MH577314_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,MH685714_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,MH933766_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,MH933768_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,MN062164_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,MN062165_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,MN062166_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,MN832786_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,MW405346_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,MW405347_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,MW405348_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,MW405349_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,OK625565_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,OM291913_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,OM291914_1,AAC,ATT,A>T,Other,AAC,A,C,Other
+2182,OM291914_1,AAC,ATT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,OM291915_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,OM291916_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,OM291917_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,OM291918_1,AAC,CGA,A>C,Other,TAA,T,A,Other
+2182,OM291918_1,AAC,CGA,A>G,A>G (Transition),AAC,A,C,ApA Context (ADAR-like)
+2182,OM291918_1,AAC,CGA,C>A,Other,ACT,A,T,Other
+2182,ON496631_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON496632_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524415_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524416_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524417_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524419_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524420_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524421_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524422_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524424_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524425_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524426_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524427_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524428_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524429_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524430_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524431_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524433_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524434_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524435_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524437_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524439_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524441_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524443_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524452_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524453_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524455_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524456_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524458_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524459_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524460_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524461_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524463_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524466_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524470_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524472_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524473_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524475_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524476_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524477_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524479_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524480_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524481_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524483_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524487_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524488_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524489_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524491_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524493_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524499_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524504_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524506_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524508_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524512_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524519_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524521_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524522_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524532_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524534_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON524535_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON661550_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON661551_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON661552_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON661553_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON661555_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON661558_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON661559_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON911719_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON911720_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON911721_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,ON911722_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,OQ077984_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,OQ077985_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,OR606575_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,OR606576_2,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,PP389036_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,PP389037_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,PP389039_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,PP389040_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,PP389041_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,PP389042_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,PP389044_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,PP661694_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,PP661695_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,PP661696_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,PP661697_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,PP661698_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,PP661699_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,PQ008999_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,PQ009000_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2182,PQ496830_1,AAC,AAT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2183,AB973400_1,TGT,TGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+2183,MF621614_1,TGT,TGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+2183,OM291914_1,TGT,GTT,T>G,Other,CTG,C,G,Other
+2183,OM291914_1,TGT,GTT,G>T,Other,TGT,T,T,Other
+2183,OM291915_1,TGT,TGG,T>G,Other,GTT,G,T,Other
+2183,OM291918_1,TGT,CAT,T>C,T>C (Transition),CTG,C,G,CpT Context
+2183,OM291918_1,TGT,CAT,G>A,G>A (Transition),TGT,T,T,GpT Context
+2183,OR606575_1,TGT,TGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+2184,KF724017_1,TGT,TGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+2184,KF724018_1,TGT,TGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+2184,KF724019_1,TGT,TGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+2184,KF724020_1,TGT,TGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+2184,KF724021_1,TGT,TGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+2184,KF724022_1,TGT,TGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+2184,KF724023_1,TGT,TGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+2184,KX088647_1,TGT,TGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+2184,MK829707_1,TGT,TGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+2184,MN832786_1,TGT,TGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+2184,MT181522_1,TGT,TGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+2184,OM291914_1,TGT,GTT,T>G,Other,TTG,T,G,Other
+2184,OM291914_1,TGT,GTT,G>T,Other,TGT,T,T,Other
+2184,OM291918_1,TGT,GCT,T>G,Other,TTG,T,G,Other
+2184,OM291918_1,TGT,GCT,G>C,Other,TGT,T,T,Other
+2184,OQ791466_1,TGT,TGC,T>C,T>C (Transition),GTT,G,T,GpT Context
+2185,AB618529_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,AB618531_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,AB793725_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,AB793726_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,AB819869_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,AB819870_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,AB839692_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,AB839693_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,AB839694_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,AB839695_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,AB839696_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,AB839697_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,AB909123_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,AB969748_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,AB973400_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,AB973401_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,HM769724_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,HQ437707_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,KC182587_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,KC182588_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,KC182589_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,KF724017_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,KF724018_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,KF724019_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,KF724020_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,KF724021_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,KF724022_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,KF724023_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,KF773842_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,KJ427799_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,KP177964_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,KP177965_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,KX088647_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,KX228694_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,KY003229_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,LC035020_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,LC049337_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,LC049338_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,LC049339_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,LC049340_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,LC049341_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,LC049342_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,LC128713_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,LC191189_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,LC373510_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,LC416593_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,LC416594_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,LC416595_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,LC435031_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,LC435032_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,LC515196_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,LC515197_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,LC515198_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,LC515199_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,LC515200_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,LC515201_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,LC515202_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,MF621614_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,MG049743_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,MH577308_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,MH577309_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,MH577310_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,MH577311_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,MH577312_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,MH577313_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,MH577314_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,MH685714_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,MH933766_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,MH933768_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,MN062166_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,MN746031_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,MN746032_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,MN832785_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,MN832786_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,MW405346_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,MW405347_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,MW405348_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,MW405349_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,OK625565_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,OM291913_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,OM291914_1,TAC,ATC,T>A,Other,TTA,T,A,Other
+2185,OM291914_1,TAC,ATC,A>T,Other,TAC,T,C,Other
+2185,OM291915_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,OM291916_1,TAC,TTC,A>T,Other,TAC,T,C,Other
+2185,OM291917_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,OM291918_1,TAC,GAT,T>G,Other,TTA,T,A,Other
+2185,OM291918_1,TAC,GAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON496632_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON496633_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524416_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524417_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524419_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524420_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524421_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524422_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524423_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524424_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524425_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524426_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524427_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524428_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524429_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524430_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524431_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524432_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524433_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524434_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524435_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524436_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524437_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524438_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524439_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524440_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524441_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524442_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524443_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524444_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524445_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524446_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524448_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524449_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524450_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524451_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524452_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524453_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524455_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524456_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524457_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524458_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524459_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524460_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524461_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524462_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524463_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524464_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524465_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524466_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524467_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524468_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524469_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524470_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524471_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524472_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524473_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524474_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524475_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524476_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524477_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524478_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524479_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524480_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524481_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524482_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524483_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524484_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524487_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524488_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524489_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524491_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524492_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524493_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524494_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524496_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524497_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524498_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524499_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524500_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524501_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524502_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524503_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524504_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524506_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524507_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524508_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524509_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524510_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524512_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524514_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524515_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524516_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524517_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524518_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524519_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524520_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524521_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524522_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524524_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524526_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524528_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524529_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524530_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524531_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524532_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524533_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524534_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON524535_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON661550_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON661551_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON661552_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON661553_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON661554_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON661555_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON661556_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON661557_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON661558_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON661559_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON911719_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON911720_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,ON911721_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,OQ077984_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,OQ077985_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,OQ077995_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,OQ077996_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,OQ161772_2,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,OQ791466_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,OR031237_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,OR477188_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,OR477190_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,OR477193_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,OR477194_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,OR477195_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,OR477196_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,OR477197_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,OR477198_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,OR477199_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,OR477200_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,OR477202_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,OR606575_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,OR606576_2,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,PP389036_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,PP389037_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,PP389039_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,PP389040_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,PP389041_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,PP389042_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,PP389044_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,PP661694_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,PP661695_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,PP661696_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,PP661697_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,PP661699_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,PP860039_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,PQ008999_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,PQ009000_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2185,PQ496830_1,TAC,TAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2186,AB839693_1,CAT,CAC,T>C,T>C (Transition),ATG,A,G,ApT Context
+2186,HM769724_1,CAT,CAC,T>C,T>C (Transition),ATG,A,G,ApT Context
+2186,HQ437707_1,CAT,CAC,T>C,T>C (Transition),ATG,A,G,ApT Context
+2186,KC182587_1,CAT,CAC,T>C,T>C (Transition),ATG,A,G,ApT Context
+2186,KC182588_1,CAT,CAC,T>C,T>C (Transition),ATG,A,G,ApT Context
+2186,KC182589_1,CAT,CAC,T>C,T>C (Transition),ATG,A,G,ApT Context
+2186,MN062164_1,CAT,CAC,T>C,T>C (Transition),ATG,A,G,ApT Context
+2186,MN062165_1,CAT,CAC,T>C,T>C (Transition),ATG,A,G,ApT Context
+2186,MN832785_1,CAT,TAT,C>T,C>T (Transition),CCA,C,A,CpC Context
+2186,OM291914_1,CAT,ATG,C>A,Other,CCA,C,A,Other
+2186,OM291914_1,CAT,ATG,A>T,Other,CAT,C,T,Other
+2186,OM291914_1,CAT,ATG,T>G,Other,ATG,A,G,Other
+2186,OM291916_1,CAT,ATG,C>A,Other,CCA,C,A,Other
+2186,OM291916_1,CAT,ATG,A>T,Other,CAT,C,T,Other
+2186,OM291916_1,CAT,ATG,T>G,Other,ATG,A,G,Other
+2186,ON496631_1,CAT,CAC,T>C,T>C (Transition),ATG,A,G,ApT Context
+2186,ON524415_1,CAT,CAC,T>C,T>C (Transition),ATG,A,G,ApT Context
+2186,ON524425_1,CAT,CAC,T>C,T>C (Transition),ATG,A,G,ApT Context
+2186,ON524427_1,CAT,CAC,T>C,T>C (Transition),ATG,A,G,ApT Context
+2186,ON524435_1,CAT,CAC,T>C,T>C (Transition),ATG,A,G,ApT Context
+2186,ON524439_1,CAT,CAC,T>C,T>C (Transition),ATG,A,G,ApT Context
+2186,ON524519_1,CAT,CAC,T>C,T>C (Transition),ATG,A,G,ApT Context
+2186,ON524522_1,CAT,CAC,T>C,T>C (Transition),ATG,A,G,ApT Context
+2186,PP661695_1,CAT,CAC,T>C,T>C (Transition),ATG,A,G,ApT Context
+2186,PP661696_1,CAT,CAC,T>C,T>C (Transition),ATG,A,G,ApT Context
+2186,PP661697_1,CAT,CAC,T>C,T>C (Transition),ATG,A,G,ApT Context
+2186,PP661698_1,CAT,CAC,T>C,T>C (Transition),ATG,A,G,ApT Context
+2188,HQ437707_1,TGT,TAT,G>A,G>A (Transition),TGT,T,T,GpT Context
+2188,LC515196_1,TGT,TAC,G>A,G>A (Transition),TGT,T,T,GpT Context
+2188,LC515196_1,TGT,TAC,T>C,T>C (Transition),GTG,G,G,GpT Context
+2188,LC515197_1,TGT,TAC,G>A,G>A (Transition),TGT,T,T,GpT Context
+2188,LC515197_1,TGT,TAC,T>C,T>C (Transition),GTG,G,G,GpT Context
+2188,LC515198_1,TGT,TAC,G>A,G>A (Transition),TGT,T,T,GpT Context
+2188,LC515198_1,TGT,TAC,T>C,T>C (Transition),GTG,G,G,GpT Context
+2188,LC515199_1,TGT,TAC,G>A,G>A (Transition),TGT,T,T,GpT Context
+2188,LC515199_1,TGT,TAC,T>C,T>C (Transition),GTG,G,G,GpT Context
+2188,LC515200_1,TGT,TAC,G>A,G>A (Transition),TGT,T,T,GpT Context
+2188,LC515200_1,TGT,TAC,T>C,T>C (Transition),GTG,G,G,GpT Context
+2188,LC515202_1,TGT,TAC,G>A,G>A (Transition),TGT,T,T,GpT Context
+2188,LC515202_1,TGT,TAC,T>C,T>C (Transition),GTG,G,G,GpT Context
+2188,MH933766_1,TGT,TAT,G>A,G>A (Transition),TGT,T,T,GpT Context
+2188,MH933768_1,TGT,TAT,G>A,G>A (Transition),TGT,T,T,GpT Context
+2188,MN062166_1,TGT,TAT,G>A,G>A (Transition),TGT,T,T,GpT Context
+2188,OM291916_1,TGT,GTG,T>G,Other,CTG,C,G,Other
+2188,OM291916_1,TGT,GTG,G>T,Other,TGT,T,T,Other
+2188,OM291916_1,TGT,GTG,T>G,Other,GTG,G,G,Other
+2188,PP860039_1,TGT,TAT,G>A,G>A (Transition),TGT,T,T,GpT Context
+2191,OM291916_1,TCA,CAA,T>C,T>C (Transition),-TC,-,C,-pT Context
+2191,OM291916_1,TCA,CAA,C>A,Other,TCA,T,A,Other
+2366,MH685714_1,CTT,TTT,C>T,C>T (Transition),ACT,A,T,ApC Context
+2366,PQ008999_1,CTT,GGG,C>G,Other,ACT,A,T,Other
+2366,PQ008999_1,CTT,GGG,T>G,Other,CTT,C,T,Other
+2366,PQ008999_1,CTT,GGG,T>G,Other,TTA,T,A,Other
+2366,PQ009000_1,CTT,GGG,C>G,Other,ACT,A,T,Other
+2366,PQ009000_1,CTT,GGG,T>G,Other,CTT,C,T,Other
+2366,PQ009000_1,CTT,GGG,T>G,Other,TTA,T,A,Other
+2367,PQ008999_1,AAA,CTC,A>C,Other,TAA,T,A,Other
+2367,PQ008999_1,AAA,CTC,A>T,Other,AAA,A,A,Other
+2367,PQ008999_1,AAA,CTC,A>C,Other,AAT,A,T,Other
+2367,PQ009000_1,AAA,CTC,A>C,Other,TAA,T,A,Other
+2367,PQ009000_1,AAA,CTC,A>T,Other,AAA,A,A,Other
+2367,PQ009000_1,AAA,CTC,A>C,Other,AAT,A,T,Other
+2369,PQ008999_1,TAT,CCT,T>C,T>C (Transition),TTA,T,A,TpT Context
+2369,PQ008999_1,TAT,CCT,A>C,Other,TAT,T,T,Other
+2369,PQ009000_1,TAT,CCT,T>C,T>C (Transition),TTA,T,A,TpT Context
+2369,PQ009000_1,TAT,CCT,A>C,Other,TAT,T,T,Other
+2383,MW405348_1,TGT,GGA,T>G,Other,TTG,T,G,Other
+2383,MW405348_1,TGT,GGA,T>A,Other,GTG,G,G,Other
+2384,KF569906_1,GAC,GCC,A>C,Other,GAC,G,C,Other
+2384,LC515201_1,GAC,GTC,A>T,Other,GAC,G,C,Other
+2384,MW405348_1,GAC,AAT,G>A,G>A (Transition),TGA,T,A,GpA Context (Antisense APOBEC)
+2384,MW405348_1,GAC,AAT,C>T,C>T (Transition),ACC,A,C,ApC Context
+2384,ON524438_1,GAC,GCC,A>C,Other,GAC,G,C,Other
+2384,ON524440_1,GAC,GCC,A>C,Other,GAC,G,C,Other
+2384,ON524460_1,GAC,GCC,A>C,Other,GAC,G,C,Other
+2384,ON524466_1,GAC,GCC,A>C,Other,GAC,G,C,Other
+2384,ON524472_1,GAC,GCC,A>C,Other,GAC,G,C,Other
+2384,ON524474_1,GAC,GCC,A>C,Other,GAC,G,C,Other
+2384,ON524480_1,GAC,GCC,A>C,Other,GAC,G,C,Other
+2384,ON524493_1,GAC,GCC,A>C,Other,GAC,G,C,Other
+2384,ON524535_1,GAC,GCC,A>C,Other,GAC,G,C,Other
+2384,ON661550_1,GAC,GCC,A>C,Other,GAC,G,C,Other
+2384,ON661552_1,GAC,GCC,A>C,Other,GAC,G,C,Other

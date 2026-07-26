@@ -1,0 +1,29 @@
+
+--- Chi-Square ---
+Statistic: 19.1451, p-value: 1.8061e-03
+
+==================================================
+--- OMNIBUS KRUSKAL-WALLIS (cpg_obye) ---
+Statistic: 11.0847, p-value: 4.9726e-02
+
+--- DUNN'S POST-HOC (Benjamini-Hochberg FDR Adjusted) ---
+                Adol-ALF  Adol-AVH  Adult-ALF  Adult-AVH  Pediatrics-ALF  Pediatrics-AVH
+Adol-ALF        1.000000  0.887375   0.570123   0.213044        0.570123        0.171509
+Adol-AVH        0.887375  1.000000   0.570123   0.112137        0.570123        0.112137
+Adult-ALF       0.570123  0.570123   1.000000   0.666993        0.887375        0.570123
+Adult-AVH       0.213044  0.112137   0.666993   1.000000        0.775518        0.887375
+Pediatrics-ALF  0.570123  0.570123   0.887375   0.775518        1.000000        0.666993
+Pediatrics-AVH  0.171509  0.112137   0.570123   0.887375        0.666993        1.000000
+
+==================================================
+--- OMNIBUS KRUSKAL-WALLIS (ga_obye) ---
+Statistic: 17.8109, p-value: 3.1930e-03
+
+--- DUNN'S POST-HOC (Benjamini-Hochberg FDR Adjusted) ---
+                Adol-ALF  Adol-AVH  Adult-ALF  Adult-AVH  Pediatrics-ALF  Pediatrics-AVH
+Adol-ALF        1.000000  0.004531   0.849993   0.169748        0.443654        0.292764
+Adol-AVH        0.004531  1.000000   0.015516   0.169748        0.169748        0.073374
+Adult-ALF       0.849993  0.015516   1.000000   0.249705        0.589956        0.443654
+Adult-AVH       0.169748  0.169748   0.249705   1.000000        0.671351        0.668931
+Pediatrics-ALF  0.443654  0.169748   0.589956   0.671351        1.000000        0.936886
+Pediatrics-AVH  0.292764  0.073374   0.443654   0.668931        0.936886        1.000000
